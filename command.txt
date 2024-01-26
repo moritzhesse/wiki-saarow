@@ -1,0 +1,1 @@
+./mysqldump.exe -h localhost -u root my_wiki > /c/Users/Neobald\ Hornrich/Desktop/wiki-saarow-mysql-analysis/backup.sql
